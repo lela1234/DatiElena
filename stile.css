@@ -1,0 +1,34 @@
+
+.prima_parte {
+ color:silver;
+ color:violet;
+ font-style:italic;
+ line-height:3.5;
+}
+.seconda_parte {
+ color:silver;
+ color:violet;
+ font-style:italic;
+ line-height:3.5;
+
+}
+.ultima_parte {
+ color:silver;
+font-style:italic;
+ line-height:2;
+}
+
+.preferito {
+font-weight:bold;
+border: 5px solid black;
+}
+.lorem {
+border: 5px solid black;
+}
+.immagine {
+border: 3px solid red;
+border-radius: 10px 10px 10px 10px;
+}
+body {
+font-family: Georgia;
+}
